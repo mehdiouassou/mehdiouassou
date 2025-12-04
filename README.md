@@ -62,7 +62,7 @@ I build software that is secure by design, optimized for performance, and commer
 ---
 
 ### ⚡ Activity
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdiouassou&show_icons=true&theme=tokyonight&hide_border=true)
+![Mehdi's GitHub stats](github-readme-stats-37thjb2qo-maxs-projects-ecb6158e.vercel.app/api?username=mehdiouassou&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 <div align="center">
