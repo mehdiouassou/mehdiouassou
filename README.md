@@ -1,72 +1,88 @@
-### Hi there, I'm Mehdi. 👋
-
-I am a **Software Engineer** based in **Verona**, currently studying Computer Science at **UniVR**.
-I specialize in the **Microsoft Stack (.NET/C#)**, but my background is rooted in low-level automation, security research, and legacy system architecture.
-
-I build software that is secure by design, optimized for performance, and commercially viable.
-
----
-
-### 🛠 Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Core & Backend** | C# (.NET 8/9), Java, Python, PHP (Legacy Support) |
-| **Web & SaaS** | Blazor WASM, ASP.NET Core, Docker, RESTful APIs |
-| **AI & R&D** | DeepSeek/OpenAI API Integration, Context Optimization, Stable Diffusion |
-| **Security** | Reverse Engineering, Network Forensics (CCNA), OWASP Standards |
-
----
-
-### ⏳ The Timeline
-
-*   **2024 - Present: R&D & SaaS Architecture**
-    *   Developing **Castel Systems** (Stealth-mode CRM/ERP automation).
-    *   Focusing on **LLM Integration** for business logic (AI Agents in Enterprise workflows).
-    *   *Stack:* .NET 9, Blazor, AI Models.
-
-*   **2023: Professional .NET Development**
-    *   Internship & Employment at **Kiklosoft**.
-    *   Shipped production code for CRM platforms and handled client-side debugging.
-    *   *Note: Activity during this period is largely in private commercial repositories.*
-
-*   **2022: The Security & Systems Year**
-    *   **CyberChallenge.IT:** Selected as Top 20 in Verona for national cybersecurity training (CTF/Attack-Defense).
-    *   **Marconi Institutes:** Maintained `Poldo` (Internal food ordering system for 1,000+ students). Refactored legacy PHP to patch critical SQLi vulnerabilities.
-    *   **Forum Marconi:** Architected a custom forum engine from scratch without frameworks.
-
-*   **2020 - 2021: Visual Automation Research**
-    *   Developed high-performance overlays for real-time visual analysis.
-    *   Focus on **WinAPI** interaction (`user32.dll`) and vector mathematics for input simulation.
-    *   *Impact:* Software achieved 11,000+ unique downloads.
-
----
-
-### 🚀 Featured Engineering
-
-#### 👁️ [Legacy Visual Automation](https://github.com/mehdiouassou/legacy-automation-2020)
-*A high-performance input overlay for real-time screen analysis.*
-*   **Tech:** WinAPI, Vector Logic, DLL Calls.
-*   **Engineering:** Implemented a custom smoothing algorithm (Square-Root function) to humanize input vectors. Bypassed standard driver flags using direct `DllCall("mouse_event")`.
-*   *(Note: This project demonstrates low-level optimization and vector math).*
-
-#### 🏛️ [Forum Marconi](https://github.com/mehdiouassou/Forum-Marconi)
-*A vanilla PHP forum engine built for a high-traffic student community.*
-*   **Tech:** PHP, MySQL, CSS3 (No Frameworks).
-*   **Engineering:** Implemented custom Session management, BBCode parsing engine, and Role-Based Access Control (RBAC) manually to ensure security compliance on legacy servers.
-
-#### 🤖 **AI Context Experiments (Private R&D)**
-*   **Focus:** Optimizing context windows for LLMs (Claude/DeepSeek) in roleplay and logic scenarios.
-*   **Tech:** JSON Structured Outputs, System Prompt Engineering, Temperature Tuning.
-
----
-
-### ⚡ Activity
-![Mehdi's GitHub stats](github-readme-stats-37thjb2qo-maxs-projects-ecb6158e.vercel.app/api?username=mehdiouassou&show_icons=true&theme=tokyonight&hide_border=true)
-
----
 <div align="center">
-  <a href="mailto:contact@/mehdiouassou.com">Email Me</a> •
-  <a href="https://linkedin.com/in/mehdi-ouassou-213547316">LinkedIn</a> •
-  <a href="https://mehdiouassou.com">Portfolio</a>
+  <h1>Hi, I'm Mehdi Ouassou</h1>
+  <h3>Software Engineer • .NET Developer</h3>
+  
+  <p>
+    <b>Verona, Italy</b> • 
+    <a href="https://linkedin.com/in/mehdi-ouassou-213547316"><b>LinkedIn</b></a>
+  </p>
+
+  <p>
+    <!-- Languages -->
+    <img src="https://img.shields.io/badge/Italian-Native-008C45?style=flat&logo=italy" alt="Italian Native" />
+    <img src="https://img.shields.io/badge/English-Native_Fluency-00247D?style=flat&logo=usa" alt="English Fluent" />
+  </p>
+  
+  <p>
+    <a href="mailto:contact@mehdiouassou.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Computer Science Student** at UniVR and a .NET Developer.
+
+I have professional experience working on CRM systems (**vtenext**) and maintaining internal tools for schools (**I.T.I. G. Marconi**). My main focus is **C# backend development**, **SQL databases**, and **Blazor** web applications.
+
+I am currently looking for internship opportunities to apply my skills in **.NET 8/9** and **Enterprise Software**.
+
+*   **Current Stack:** .NET 9, Blazor, SQL Server, Docker.
+*   **Status:** Open for Internship (150h).
+
+---
+
+### 🛠 Technical Skills
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,mysql,docker,azure,git,vscode&theme=dark&perline=12" />
+</div>
+
+| Domain | Proficiency |
+| :--- | :--- |
+| **Backend & Core** | **C# (.NET 8/9)**, Entity Framework Core, LINQ, Dependency Injection |
+| **Frontend & Web** | **Blazor**, ASP.NET Core, HTML5/CSS3, JavaScript |
+| **Data & Cloud** | **SQL Server**, MySQL (Legacy), Docker, Azure Fundamentals |
+| **Certifications** | **Cisco CCNA**, Cisco IT Essentials |
+
+---
+
+### ⏳ Experience & Projects
+
+#### 💼 **2024 - Present: .NET SaaS Development (Private R&D)**
+> *Full-Stack Development.*
+*   Architecting a modular **CRM solution** using .NET 9 and Blazor.
+*   Integrating **LLM APIs** (DeepSeek/OpenAI) for automated data entry.
+*   Focus on Clean Architecture and Docker containerization.
+
+#### 💼 **Aug 2023 - Oct 2023: .NET Developer (Kiklosoft)**
+> *Contract / Freelance.*
+*   Developed features for CRM/ERP platforms using **C#** and **.NET**.
+*   Managed database integrity and client-side debugging.
+*   *Stack:* .NET, SQL Server, Xamarin (Maintenance).
+
+#### 🎓 **Jun 2022 - Jul 2022: .NET Internship (Kiklosoft)**
+> *Stage / Internship.*
+*   First professional exposure to enterprise software development.
+*   Assisted senior developers in maintaining existing .NET codebases.
+*   Gained practical knowledge of **Git workflows** and agile development.
+
+#### 🛡️ **2022: Educational & Legacy Systems (Marconi)**
+*   **CyberChallenge.IT (Top 20 Verona):** Selected for national training in cybersecurity (CTF, Binary Exploitation).
+*   **Poldo (Marconi Institute):** **Core Contributor** for the internal food ordering system (1,000+ users). Refactored legacy PHP to patch critical SQL Injection vulnerabilities.
+*   **Forum Marconi:** Developed a custom forum engine from scratch (PHP/MySQL) to learn HTTP and Session handling.
+
+#### 🛠️ **2020 - 2021: Windows Automation Research**
+> *Performance Optimization & WinAPI.*
+*   Developed high-performance overlays for real-time screen analysis (<1ms latency).
+*   Utilized **WinAPI** (`user32.dll`) and Vector Mathematics for input simulation.
+*   **Metric:** Software achieved **11,000+** unique downloads.
+
+---
+
+<div align="center">
+  <p>© 2025 Mehdi Ouassou</p>
 </div>
