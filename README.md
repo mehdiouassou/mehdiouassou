@@ -29,7 +29,7 @@
 
 I am a **Computer Science Student** at UniVR and a **.NET Developer**.
 
-I specialize in **Enterprise Software** and **.NET**. I have professional experience working on production code for CRM platforms (Kiklosoft/Vtenext), handling **C# backends**, **SQL migrations**, and **legacy PHP refactoring**. 
+I specialize in **Enterprise Software** and **.NET**. I have professional experience working on production code for CRM platforms (Kiklosoft/Vtenext), handling the **C# ecosystem**, **SQL migrations**
 
 I am focused on building stable, commercially viable systems using the Microsoft Stack.
 
