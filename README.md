@@ -29,11 +29,11 @@
 
 I am a **Computer Science Student** at UniVR and a **.NET Developer**.
 
-I specialize in **Enterprise Software** and **CRM Architecture**. I have professional experience working on production code for CRM platforms (Kiklosoft/Vtenext), handling **C# backends**, **SQL migrations**, and **legacy PHP refactoring**. 
+I specialize in **Enterprise Software** and **.NET**. I have professional experience working on production code for CRM platforms (Kiklosoft/Vtenext), handling **C# backends**, **SQL migrations**, and **legacy PHP refactoring**. 
 
 I am focused on building stable, commercially viable systems using the Microsoft Stack.
 
-*   **Current Stack:** .NET 9, Blazor, SQL Server, Docker.
+*   **Current Stack:** .NET 8, MAUI, ASP.NET, Blazor, SQL Server, Docker.
 *   **Status:** Open for Internship (150h).
 
 ---
@@ -46,10 +46,10 @@ I am focused on building stable, commercially viable systems using the Microsoft
 
 | Domain | Proficiency |
 | :--- | :--- |
-| **Backend & Core** | **C# (.NET 8/9)**, **Java**, Xamarin, Entity Framework, LINQ |
+| **Backend & Core** | **C# (.NET 8/9)**, **Java**, MAUI, Entity Framework, LINQ |
 | **Frontend & Web** | **Blazor**, ASP.NET Core, HTML5/CSS3, JavaScript |
 | **Data & Cloud** | **SQL Server**, MySQL, Docker, Azure Fundamentals |
-| **Tools** | Git, Visual Studio Enterprise, Postman, Linux (Basics) |
+| **Tools** | Git, Visual Studio, Dapper, Swagger, Postman, Linux (Basics) |
 
 ---
 
@@ -57,9 +57,9 @@ I am focused on building stable, commercially viable systems using the Microsoft
 
 #### 💼 **2024 - Present: .NET SaaS Development (Private R&D)**
 > *Full-Stack Development.*
-*   Building a modular **CRM solution** using .NET 9 and Blazor.
+*   Building a modular **ERP solution** using .NET 8 and Blazor.
 *   Integrating **LLM APIs** (DeepSeek/OpenAI) for automated data processing.
-*   Focus on Clean Architecture and Docker containerization.
+*   Focus on Clean Architecture.
 
 #### 💼 **2023: Junior .NET Developer (Kiklosoft)**
 > *CRM & Enterprise Solutions.*
