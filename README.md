@@ -29,7 +29,7 @@
 
 I am a **Computer Science Student** at UniVR and a **.NET Developer**.
 
-I specialize in **Enterprise Software** and **.NET**. I have professional experience working on production code for CRM platforms (Kiklosoft/Vtenext), handling the **C# ecosystem**, **SQL migrations**
+I specialize in **Enterprise Software** and **.NET**. I have professional experience working on production code for PMI, handling the **C# ecosystem**, **SQL**
 
 I am focused on building stable, commercially viable systems using the Microsoft Stack.
 
@@ -55,7 +55,7 @@ I am focused on building stable, commercially viable systems using the Microsoft
 
 ### ⏳ Experience & Projects
 
-#### 💼 **2024 - Present: .NET SaaS Development (Private R&D)**
+#### 💼 **2024 - Present: Student and Hobbyist Software Engineer (.NET/AI)**
 > *Full-Stack Development.*
 *   Building a modular **ERP solution** using .NET 8 and Blazor.
 *   Integrating **LLM APIs** (DeepSeek/OpenAI) for automated data processing.
